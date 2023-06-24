@@ -1,0 +1,15 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/login_Project_Api/.vs
+/login_Project_Api/Project.Bussiness/bin/Debug/net7.0
+/login_Project_Api/Project.Bussiness/obj
+/login_Project_Api/Project.Core/bin/Debug/net7.0
+/login_Project_Api/Project.Core/obj
+/login_Project_Api/Project.Data/bin/Debug/net7.0
+/login_Project_Api/Project.Data/obj
+/login_Project_Api/Project.Entity/bin/Debug/net7.0
+/login_Project_Api/Project.Entity/obj
+/login_Project_Api/torholding_test/bin/Debug/net7.0
+/login_Project_Api/torholding_test/obj
